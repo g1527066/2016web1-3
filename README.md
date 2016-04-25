@@ -4,7 +4,7 @@
   </head>
   <body>
   
-  <img src="neko.JPG"/>
+  <img src="neko.JPG" white="100">
   
   
   </body>
